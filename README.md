@@ -8,11 +8,10 @@ I focus on practical implementation, automation, and defensive security strategi
 
 ## Professional Focus
 ```
-- Linux System Administration
-- Network Infrastructure & Troubleshooting
-- Security Hardening & Monitoring
-- Automation & Scripting
-- Infrastructure Optimization
+・System Engineer
+・Cloud Infrastructure
+・Security Hardening & Monitoring
+・Automation & Scripting
 ```
 ---
 
