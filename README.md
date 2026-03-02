@@ -6,13 +6,14 @@ I focus on practical implementation, automation, and defensive security strategi
 
 ---
 
-## 🧠 Professional Focus
+## Professional Focus
+```
 - Linux System Administration
 - Network Infrastructure & Troubleshooting
 - Security Hardening & Monitoring
 - Automation & Scripting
 - Infrastructure Optimization
-
+```
 ---
 
 ## ✨ Closing Thought  
