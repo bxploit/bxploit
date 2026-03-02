@@ -14,7 +14,8 @@ I focus on practical implementation, automation, and defensive security strategi
 ・ Automation & Scripting
 ```
 ---
-Thank you for visiting! Don't forget to ⭐ star the repo if you like it! 😄   
+Thank you for visiting!   
+Don't forget to ⭐ star the repo if you like it! 😄   
 
 ---  
 
